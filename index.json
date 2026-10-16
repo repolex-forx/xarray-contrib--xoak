@@ -1,0 +1,11 @@
+{
+  "org": "xarray-contrib",
+  "repo": "xoak",
+  "versions": [
+    {
+      "commit": "3aa25f5c8096ed1fbc65711d3314f6b86f371cb7",
+      "tag": "0.2.0",
+      "parsed_at": "2026-10-16T03:24:23.009714+00:00"
+    }
+  ]
+}
