@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/xarray-contrib/xoak/commit/3aa25f5c8096ed1fbc65711d3314f6b86f371cb7",
       "git:hexsha": "3aa25f5c8096ed1fbc65711d3314f6b86f371cb7",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "0.2.0"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "0.2.0",
+      "repolex:parsedAt": "2026-10-16T03:24:23.009114+00:00"
     },
     {
       "@id": "https://repolex.ai/r/xarray-contrib/xoak/commit/5641f887bd309b93f002f62f003df1edf14cf601",
